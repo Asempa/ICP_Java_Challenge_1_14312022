@@ -1,0 +1,10 @@
+Item: Fanta  Quantity: 21  Price: 2.0
+Item: Coke  Quantity: 12  Price: 5.0
+Item: Bread  Quantity: 3  Price: 1.0
+Item: Pen  Quantity: 34  Price: 2.0
+Item: Laptop  Quantity: 45  Price: 2.56
+Item: Iron  Quantity: 45  Price: 3.0
+Item: Watch  Quantity: 12  Price: 21.0
+Item: Mouse  Quantity: 1  Price: 3.0
+Item: Boots  Quantity: 23  Price: 23.0
+Item: Exercise Book  Quantity: 1  Price: 45.0
